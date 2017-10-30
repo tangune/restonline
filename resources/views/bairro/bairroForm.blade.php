@@ -20,8 +20,6 @@
                     {{--</div>--}}
 
                 </div>
-
-
             </form>
             <div class="clearfix"> </div>
             <div class="register-but">
